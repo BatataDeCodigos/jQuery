@@ -2,10 +2,12 @@ $(document).ready(function(){
 
 //botão 
 $("btn-success").click(function){
+    $('.btn.danger').button('toggle').addClass('fat')
 
-alert("Aprendemos a usar o jQuery, um pouco de JS e bootstrap.")
+    alert(Aprendemos bootstrap, jQuery e um pouco de javaScript)
 
-}
-
+    
 
 })
+
+

@@ -1,8 +1,14 @@
 //botão 
+$(document).ready(function(){
+
+})
+
 
     $(".btns").click(function(){
-        
+            alert("Por favor avalie o meu trabalho!")
 
-            alert("Aprendemos Bootstrap, jQuery e um pouco de JavaScript!")
+            var name = prompt('Digite aqui:')
 })
+
+
 

@@ -6,38 +6,53 @@
 }
 
 .buttons{
-    
     display: inline;
-    
+}
+
+.btns{
+    text-align: center;
+    width: 60px;
+    height: 30px;
 }
 
 #sandro{
     text-align: center;
     border: 1px solid black;
     float: left;
+    margin-left: 10px;
 }
 
 #GaBrenDalberto{
     text-align: center;
     border: 1px solid black;
     float: left;
+    margin-left: 10px;
 }
 
 #pv{
     text-align: center;
     border: 1px solid black;
     float: left;
-}
-
-#ch{
-    text-align: center;
-    border: 1px solid black;
-    float: left;
-    
+    margin-left: 10px;
 }
 
 #Linguas{
     text-align: center;
     border: 1px solid black;
     float: left;
+    margin-left: 10px;
+}
+
+#Art{
+    text-align: center;
+    border: 1px solid black;
+    float: left;
+    margin-left: 10px;
+}
+
+#ch{
+    text-align: center;
+    border: 1px solid black;
+    float: left;
+    margin-left: 10px;
 }

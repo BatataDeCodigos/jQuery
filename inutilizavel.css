@@ -5,74 +5,82 @@
    
 }
 
-.buttons{
-    display: inline;
+#sla{
+float: left;
+padding-left: 645px;
+border: 0px solid white;
+margin-bottom: 40px;
 }
 
 .btns{
-    text-align: center;
+
     width: 60px;
     height: 30px;
 }
 
-#sandro{
+.buttons{
     text-align: center;
+    padding-left: 180px;
+}
+
+#sandro{
+    
     border: 1px solid black;
     float: left;
     margin-left: 10px;
 }
 
 #GaBrenDalberto{
-    text-align: center;
+    
     border: 1px solid black;
     float: left;
     margin-left: 10px;
 }
 
 #pv{
-    text-align: center;
+    
     border: 1px solid black;
     float: left;
     margin-left: 10px;
 }
 
 #Linguas{
-    text-align: center;
+    
     border: 1px solid black;
     float: left;
     margin-left: 10px;
 }
 
 #Art{
-    text-align: center;
+   
     border: 1px solid black;
     float: left;
     margin-left: 10px;
 }
 
 #ch{
-    text-align: center;
+    
     border: 1px solid black;
     float: left;
     margin-left: 10px;
 }
 
 #fis{
-    text-align: center;
+    
     border: 1px solid black;
     float: left;
     margin-left: 10px;
 }
 
 #qui{
-    text-align: center;
+    
     border: 1px solid black;
     float: left;
     margin-left: 10px;
 }
 
-#bi{
-    text-align: center;
+#CN{
+    
     border: 1px solid black;
     float: left;
     margin-left: 10px;
